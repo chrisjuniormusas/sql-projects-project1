@@ -1,1 +1,2 @@
-# sql-projects-project1
+# Retail Sales Analysis SQL Project
+Project Overview
